@@ -7,7 +7,7 @@
 		"uuidString": "2E356563-9FF1-43B3-AB02-4E1E1E3E2323"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "31491",
 "files": {
 	"/css/layout.css": {
 		"aP": 1,
@@ -117,6 +117,7 @@
 	"/favicon.icns": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/favicon.icns",
 		"oF": 0
@@ -124,6 +125,7 @@
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/favicon.ico",
 		"oF": 0
@@ -887,6 +889,7 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/index.html",
 		"oF": 0
@@ -894,6 +897,7 @@
 	"/video-debglaser-ttt.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-debglaser-ttt.html",
 		"oF": 0
@@ -901,6 +905,7 @@
 	"/video-jca-video-guide.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-jca-video-guide.html",
 		"oF": 0
@@ -908,6 +913,7 @@
 	"/video-learningexpress-tutorials.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-learningexpress-tutorials.html",
 		"oF": 0
@@ -915,6 +921,7 @@
 	"/video-lel4-video-guide.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-lel4-video-guide.html",
 		"oF": 0
@@ -922,6 +929,7 @@
 	"/video-stacyrock-actingreel.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-stacyrock-actingreel.html",
 		"oF": 0
@@ -929,6 +937,7 @@
 	"/video-stacyrock-beneaththemusic.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-stacyrock-beneaththemusic.html",
 		"oF": 0
@@ -936,6 +945,7 @@
 	"/video-stacyrock-liveshows.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/video-stacyrock-liveshows.html",
 		"oF": 0
@@ -943,6 +953,7 @@
 	"/web-design-gumsite.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-gumsite.html",
 		"oF": 0
@@ -950,6 +961,7 @@
 	"/web-design-janekellywiliams.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-janekellywiliams.html",
 		"oF": 0
@@ -957,6 +969,7 @@
 	"/web-design-learningexpress-graderpro.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-learningexpress-graderpro.html",
 		"oF": 0
@@ -964,6 +977,7 @@
 	"/web-design-learningexpress-jcaredesign.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-learningexpress-jcaredesign.html",
 		"oF": 0
@@ -971,6 +985,7 @@
 	"/web-design-learningexpress-jobapptutorial.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-learningexpress-jobapptutorial.html",
 		"oF": 0
@@ -978,6 +993,7 @@
 	"/web-design-oddsandends-responsivecallouts.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-oddsandends-responsivecallouts.html",
 		"oF": 0
@@ -985,6 +1001,7 @@
 	"/web-design-realmatch-ebook-download.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-realmatch-ebook-download.html",
 		"oF": 0
@@ -992,6 +1009,7 @@
 	"/web-design-realmatch-whitepaper-download.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-realmatch-whitepaper-download.html",
 		"oF": 0
@@ -999,6 +1017,7 @@
 	"/web-design-redlettercontent-website-and-logo.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/web-design-redlettercontent-website-and-logo.html",
 		"oF": 0
@@ -1006,6 +1025,7 @@
 	"/XXX_subpage_web_design.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/XXX_subpage_web_design.html",
 		"oF": 0
@@ -1017,13 +1037,14 @@
 	},
 "projectAttributes": {
 	"creationDate": 523135763,
-	"displayValue": "site",
+	"displayValue": "my-work",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -1035,6 +1056,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -1105,6 +1127,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -1126,6 +1154,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -1136,6 +1194,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -1171,7 +1232,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -1207,10 +1274,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -1254,11 +1327,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -2159,6 +2231,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -2258,6 +2334,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
@@ -2821,6 +2901,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -2842,6 +2923,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -2864,7 +2946,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -2903,6 +2986,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -2912,7 +2996,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -2933,7 +3018,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2962,7 +3048,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3005,6 +3092,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
@@ -3050,16 +3142,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -3071,14 +3167,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3101,6 +3197,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -3126,10 +3226,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -3138,13 +3234,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -3156,6 +3252,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -3178,13 +3278,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -3193,10 +3293,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -3220,6 +3316,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -3254,6 +3354,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -3263,6 +3367,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3290,15 +3398,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
