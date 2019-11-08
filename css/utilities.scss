@@ -1,0 +1,19 @@
+// PADS
+.pad-5	{ padding: 5px; 	 }
+.pad-10 	{ padding: 10px; }
+.pad-15	{ padding: 15px;	 }
+.pad-20 	{ padding: 10px; }
+.pad-25	{ padding: 25px; }
+@media only screen and (max-width: $break-sm) {
+	.pad-5	{ padding: 5px 0; }
+	.pad-10 	{ padding: 10px 0;}
+	.pad-15	{ padding: 5px;	}
+	.pad-20 	{ padding: 10px;}
+	.pad-25	{ padding: 5px; 	}
+}
+// MARGINS
+.mar-5	{ margin: 5px; 	}
+.mar-10 	{ margin: 10px; 	}
+.mar-15	{ margin: 15px;	}
+.mar-20 	{ margin: 10px; 	}
+.mar-25	{ margin: 25px; 	}

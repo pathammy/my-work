@@ -1,0 +1,43 @@
+/* --------------------LAYOUT STYLES-------------------- */
+.full-width, .half-wide, .one-third-wide, .two-thirds-wide { position: relative; display: inline-block; padding: 0 37.5px; box-sizing: border-box; }
+
+.full-width:not(:first-child), .half-wide:not(:first-child), .one-third-wide:not(:first-child), .two-thirds-wide:not(:first-child) { margin-left: -6px; }
+
+.full-width:not(:last-child), .half-wide:not(:last-child), .one-third-wide:not(:last-child), .two-thirds-wide:not(:last-child) { margin-bottom: 80px; }
+
+.full-width { display: block; margin: 0 auto 80px !important; }
+
+.testimonial .half-wide { /* TABLET PORTRAIT AND BELOW */ }
+
+@media (max-width: 1023px) { .testimonial .half-wide:not(:first-child) { margin-top: 75px; } }
+
+.testimonial .half-wide:not(:last-child) { margin-bottom: 0px; }
+
+@media (min-width: 1440px) { .full-width, .half-wide { width: 50%; }
+  .one-third-wide { width: 33%; }
+  .two-thirds-wide { width: 66%; } }
+
+@media (min-width: 1024px) and (max-width: 1439px) { .full-width, .half-wide, .one-third-wide, .two-thirds-wide { width: 50%; } }
+
+@media (min-width: 768px) and (max-width: 1023px) { .full-width, .half-wide, .one-third-wide, .two-thirds-wide { display: block; width: 65%; margin: 0 auto 20px auto; }
+  .full-width:not(:first-child), .half-wide:not(:first-child), .one-third-wide:not(:first-child), .two-thirds-wide:not(:first-child) { margin-left: auto; } }
+
+/* PHONES WILL STACK THE TESTIMONIALS, AND ADD TOP MARGIN TO ALL BUT THE FIRST INSTANCE */
+@media (max-width: 1023px) { .full-width, .half-wide, .one-third-wide, .two-thirds-wide { width: 100%; display: block; padding: 0 10px; box-sizing: border-box; }
+  .full-width:not(:first-child), .half-wide:not(:first-child), .one-third-wide:not(:first-child), .two-thirds-wide:not(:first-child) { margin-left: auto; } }
+
+.about-me { /* PHONE */ }
+
+@media (max-width: 767px) { .about-me { padding-top: 25px !important; } }
+
+header, .about-me, div[class*="-zone-"], .testimonial { position: relative; box-sizing: border-box; padding: 75px 75px 75px; /* PHONE */ /* TABLET */ }
+
+@media (max-width: 767px) { header, .about-me, div[class*="-zone-"], .testimonial { padding: 15px 5px 70px; } }
+
+@media (min-width: 768px) and (max-width: 1440px) { header, .about-me, div[class*="-zone-"], .testimonial { padding: 20px 20px 80px; } }
+
+header, .testimonial { /* PHONE */ /* TABLET */ }
+
+@media (max-width: 767px) { header, .testimonial { padding: 10px 10px 25px; } }
+
+@media (min-width: 768px) and (max-width: 1440px) { header, .testimonial { padding: 20px 20px 20px; } }
